@@ -13,7 +13,6 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
-        android:layout_color="@color/blue"
+        android:textColor="@color/blue"
         android:text="@string/hello_world" />
-
 </RelativeLayout>
